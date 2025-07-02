@@ -70,7 +70,7 @@ Files will be saved in:
 - ```./uploads/others/```
 
 <div align="center">
-  <img src="![image](https://github.com/user-attachments/assets/5f4398ff-4619-461a-a4f4-3c90c0bea74b)">
+  <img src="![image](https://github.com/user-attachments/assets/08a96ba6-6a12-449c-986a-b01dd7e2bbe2)">
 </div>
 
 
