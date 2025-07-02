@@ -69,7 +69,7 @@ Files will be saved in:
 - ```./uploads/videos/```
 - ```./uploads/others/```
 
-<div style="text-align: center; margin: 0 auto; max-width: 800px;">
+<div align="center">
 ![image](https://github.com/user-attachments/assets/5f4398ff-4619-461a-a4f4-3c90c0bea74b)
 </div>
 
