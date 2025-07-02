@@ -38,7 +38,7 @@ spring.servlet.multipart.max-request-size=10MB
 ## Installation
 1. Clone repository:
 ```bash
-git clone https://github.com/your-repo/file-upload-service.git
+git clone https://github.com/Issy4444Mega/File-Upload-Service.git
 cd file-upload-service
 ```
 2. Build application:
